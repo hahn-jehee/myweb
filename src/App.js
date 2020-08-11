@@ -7,7 +7,7 @@ function App() {
     <div>
     <p> hahn-jehee </p>
     <Button Primary> hi </Button>
-    <Progress percent = {33} indicationg/>
+    <Progress percent = {33} indicating/>
     </div>
   );
 }
