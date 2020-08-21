@@ -24,11 +24,11 @@ class Buttons extends React.Component{
                 return {likes : prevState.likes + 1}
               })}
             />
-            
+
             <Button
               color="blue"
-              content="Share"
-              icon="fork"
+              content="Visitors"
+              icon="user plus"
               label={{
                 as: "a",
                 basic: true,
